@@ -1,0 +1,14 @@
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/bin/Debug/netcoreapp1.1/UnitTestProject.deps.json
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/bin/Debug/netcoreapp1.1/UnitTestProject.runtimeconfig.json
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/bin/Debug/netcoreapp1.1/UnitTestProject.runtimeconfig.dev.json
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/bin/Debug/netcoreapp1.1/UnitTestProject.dll
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/bin/Debug/netcoreapp1.1/UnitTestProject.pdb
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/bin/Debug/netcoreapp1.1/CoreUnitTesting.dll
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/bin/Debug/netcoreapp1.1/CoreUnitTesting.pdb
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/obj/Debug/netcoreapp1.1/UnitTestProject.csprojResolveAssemblyReference.cache
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/obj/Debug/netcoreapp1.1/UnitTestProject.AssemblyInfo.cs
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/obj/Debug/netcoreapp1.1/UnitTestProject.dll
+/Users/andrew/Documents/loose files/CoreUnitTesting/UnitTestProject/obj/Debug/netcoreapp1.1/UnitTestProject.pdb

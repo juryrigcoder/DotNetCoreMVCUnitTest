@@ -1,0 +1,9 @@
+/Users/andrew/Documents/loose files/CoreUnitTesting/CoreUnitTesting/bin/Debug/netcoreapp1.1/CoreUnitTesting.deps.json
+/Users/andrew/Documents/loose files/CoreUnitTesting/CoreUnitTesting/bin/Debug/netcoreapp1.1/CoreUnitTesting.runtimeconfig.json
+/Users/andrew/Documents/loose files/CoreUnitTesting/CoreUnitTesting/bin/Debug/netcoreapp1.1/CoreUnitTesting.runtimeconfig.dev.json
+/Users/andrew/Documents/loose files/CoreUnitTesting/CoreUnitTesting/bin/Debug/netcoreapp1.1/CoreUnitTesting.dll
+/Users/andrew/Documents/loose files/CoreUnitTesting/CoreUnitTesting/bin/Debug/netcoreapp1.1/CoreUnitTesting.pdb
+/Users/andrew/Documents/loose files/CoreUnitTesting/CoreUnitTesting/obj/Debug/netcoreapp1.1/CoreUnitTesting.csprojResolveAssemblyReference.cache
+/Users/andrew/Documents/loose files/CoreUnitTesting/CoreUnitTesting/obj/Debug/netcoreapp1.1/CoreUnitTesting.AssemblyInfo.cs
+/Users/andrew/Documents/loose files/CoreUnitTesting/CoreUnitTesting/obj/Debug/netcoreapp1.1/CoreUnitTesting.dll
+/Users/andrew/Documents/loose files/CoreUnitTesting/CoreUnitTesting/obj/Debug/netcoreapp1.1/CoreUnitTesting.pdb
